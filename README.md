@@ -1,11 +1,7 @@
-...
-<body>
-    <div id="map"></div>
-    <script async defer
-        src="https://maps.googleapis.com/maps/api/js?key=API_KEY&loading=async&callback=initMap">
-    </script>
-</body>
-...
+
+ <script async defer
+    src="https://maps.googleapis.com/maps/api/js?key=API_KEY&loading=async&callback=initMap">
+ </script>
 
 Instructions:
 
